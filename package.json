@@ -1,0 +1,45 @@
+{
+  "name": "@phyter1/valice",
+  "version": "0.0.1",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev:start": "",
+    "dev:lint": "",
+    "dev:test": "",
+    "prod:start": "",
+    "prod:build": "",
+    "start": "",
+    "build": "",
+    "lint": "",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phyter1/valice.git"
+  },
+  "keywords": [
+    "protfolio",
+    "node",
+    "typescript",
+    "react",
+    "graphql",
+    "terraform"
+  ],
+  "author": "Ryan Lowe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phyter1/valice/issues"
+  },
+  "homepage": "https://github.com/phyter1/valice#readme",
+  "devDependencies": {
+    "@types/jest": "^29.1.2",
+    "jest": "^29.2.0",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.8.4"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
+  }
+}
